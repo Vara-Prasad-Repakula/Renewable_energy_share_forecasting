@@ -27,4 +27,5 @@ I worked intensively on this project whose Aim is ***forecasting*** the future R
 ![1692222344191](https://github.com/Vara-Prasad-Repakula/Renewable_energy_share_forecasting/assets/145162430/a88e88f7-b9b4-473e-8ade-f558d9e86902)
 
 - The *directly* forecasted renewable energy share and *indirectly* calculated renewable energy share are almost same,which signifies the methodology adapted in this project gave accurate results, *however suggestions to improve the projects are welcome*.
+  
 ![image](https://github.com/Vara-Prasad-Repakula/Renewable_energy_share_forecasting/assets/145162430/7cfdb738-f2c6-4bf0-9fd6-d6a407dba277)
